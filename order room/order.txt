@@ -1,5 +1,0 @@
-name:xiao data:1 time:1 room:1 sId:1 status:2
-name:xiao data:2 time:2 room:2 sId:1 status:0
-name:xiao data:3 time:1 room:1 sId:1 status:2
-name:wang data:4 time:1 room:2 sId:2 status:2
-name:xiao data:1 time:1 room:1 sId:1 status:1
